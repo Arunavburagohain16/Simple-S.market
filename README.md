@@ -5,4 +5,7 @@ supermarket website with database<br />
 Add the cms1 folder <br />
 For XAMPP copy this cms1 folder to htdocs<br />
 For Lampp coy this cms1 folder to var/www/html<br />
+<br />
+<br />
+simple mini project
 
